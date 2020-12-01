@@ -1,0 +1,151 @@
+body{
+	
+	margin:0;
+	padding:0;
+	
+	
+}
+.container{
+	
+	width:90%;
+	margin:auto;
+	
+}
+.icon-area ul{
+	
+	list-style:none;
+	margin-top=60px;
+	
+	
+}
+.icon-area ul li{
+	
+	display:inline-block;
+
+}
+
+.icon-area ul li a{
+	
+	background:rgb(173, 255, 41);
+	color:rgb(0, 0, 0);
+	padding:30px 40px;
+    display:block;
+	font-size:25px;
+    border-radius:10px;
+
+}
+.icon-area ul li a:hover{
+	
+	background:red;
+	
+	
+}
+.icon-area1 ul{
+	
+	list-style:none;
+	margin-top=60px;
+	
+	
+}
+.icon-area1 ul li{
+	
+	display:inline-block;
+
+}
+.icon-area1 ul li a{
+	
+    background:pink;
+	color:red;
+	padding:30px 40px;
+    display:block;
+	font-size:25px;
+    border-radius:10px;
+
+	
+}
+.icon-area1 ul li a:hover{
+	
+	background:yellowgreen;
+}
+.icon-area2 ul{
+	
+	list-style:none;
+	margin-top=60px;
+	
+	
+}
+.icon-area2 ul li{
+	
+	display:inline-block;
+
+}
+.icon-area2 ul li a{
+	
+    background:rgb(173, 255, 41);
+	color:rgb(0, 0, 0);
+	padding:30px 40px;
+    display:block;
+	font-size:25px;
+    border-radius:10px;
+
+	
+}
+.icon-area2 ul li a:hover{
+	
+	background:orange;
+}
+.icon-area3 ul{
+	
+	list-style:none;
+	margin-top=60px;
+	
+	
+}
+.icon-area3 ul li{
+	
+	display:inline-block;
+
+}
+
+.icon-area3 ul li a{
+	
+    background:paleturquoise;
+	color:black;
+	padding:30px 40px;
+    display:block;
+	font-size:25px;
+    border-radius:10px;
+
+	
+}
+.icon-area3 ul li a:hover{
+	
+	background:Cyan;
+}
+.icon-area4 ul{
+	
+	list-style:none;
+	margin-top=60px;
+	
+	
+}
+.icon-area4 ul li{
+	
+	display:inline-block;
+
+}
+.icon-area4 ul li a{
+	
+    background:pink;
+	color:green;
+	padding:30px 40px;
+    display:block;
+	font-size:25px;
+    border-radius:10px;
+
+	
+}
+.icon-area4 ul li a:hover{
+	
+	background:yellow;
+}
